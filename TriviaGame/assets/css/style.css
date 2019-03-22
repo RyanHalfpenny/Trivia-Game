@@ -1,0 +1,30 @@
+.jumbotron {
+    text-align: center;
+    padding: 0.8em 0.8em;
+    opacity: .7;
+    color: blue;
+    background-color: black;
+}
+
+.btn {
+    color: blue;
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 10px;
+    background-color: black;
+    font-size: 12pt;
+}
+
+.answer:hover {
+    background: rgb(68, 64, 64);
+}
+
+body {
+    background: url('../images/bttfMoviePoster.jpg') no-repeat top center fixed;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: blue;
+    text-align: center;
+}
